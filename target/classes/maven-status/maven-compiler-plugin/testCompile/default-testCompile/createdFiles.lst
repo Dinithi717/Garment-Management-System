@@ -1,0 +1,4 @@
+com\lankatex\garmentms\web\AdminUserControllerIT.class
+com\lankatex\garmentms\config\SecurityTestConfig.class
+com\lankatex\garmentms\service\UserServiceTest.class
+com\lankatex\garmentms\GarmentMsApplicationTests.class
